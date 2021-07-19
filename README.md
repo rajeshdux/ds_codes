@@ -1,4 +1,5 @@
-HI..
-I am Rajesh Kumar,
-I am a Data Scientist, 
-Enthusiastic in aquiring knowlwdge and experience of new technologies in the field of Artificial Intelligence.
+👋 Hi, I’m @RajeshQQQ
+- 👀 I’m interested in aquiring knowlwdge and experience of new technologies in the field of Artificial Intelligence.
+
+- 📫 Reach me: rajeshdux@gmail.com
+
